@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1621110740 source:d:\carpetas del usuario\documentos\documentos de codeblock\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"get.h"
+
+1621110740 source:d:\carpetas del usuario\documentos\documentos de codeblock\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"get.h"
+	<string.h>
+	"ArrayEmployees.h"
+
+1620737678 d:\carpetas del usuario\documentos\documentos de codeblock\tp2\get.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621086806 source:d:\carpetas del usuario\documentos\documentos de codeblock\tp2\get.c
+	"get.h"
+
+1621108578 d:\carpetas del usuario\documentos\documentos de codeblock\tp2\arrayemployees.h
+
